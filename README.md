@@ -1,1 +1,1 @@
-"Proyecto GameStats" 
+"README general" 
