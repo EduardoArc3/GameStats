@@ -6,3 +6,4 @@
 "Responsable: Eduardo Arce" 
 "Riesgo: Bajo" 
 "Costo estimado: 1 hora" 
+"Actualizaci¢n del ticket" 
